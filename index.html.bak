@@ -5,7 +5,6 @@
 <script>
 function RegisterClick()
 {
-var pin=document.getElementById("txtpin").value;
 if(pin==6640)
 	{
 		document.write("login succesful with pin number");
